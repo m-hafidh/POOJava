@@ -1,4 +1,4 @@
- package heritages;
+// package heritages;
 
 class Vehicule {
 protected String brand= "Ford"; // Attribut vehicule
